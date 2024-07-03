@@ -1,9 +1,3 @@
-//Umama Bajwa
-//i221133 DATA C
-//q3 A1
-//header file 
-
-
 
 #include <opencv2/core.hpp>
 #include <opencv2/imgcodecs.hpp>
